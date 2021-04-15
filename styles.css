@@ -1,0 +1,52 @@
+.title {
+    border: 5px solid blue;
+    margin: 4px;
+    padding: 4px;
+    text-align: center;
+    background-color: lightblue;
+    color: white;
+}
+
+.name {
+    color: black;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin:auto;
+        display:block;
+}
+
+.quick {
+    display: flex;
+    justify-content: center;
+    border: 3px solid white;
+    background-color: white;
+}
+
+.about {
+    border: inset 3.5px;
+    background-color: #B8e1e9;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.contact {
+    background-color: #34e1eb;
+}
+
+.photos {
+    background-color: #34b4eb;
+}
+
+.friends {
+    background-color: #348feb;
+}
+
+.facts {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
